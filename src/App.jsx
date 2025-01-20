@@ -101,7 +101,7 @@ function App() {
                 <div className="w-10 rounded-full">
                   <img
                     alt="Tailwind CSS chat bubble component"
-                    src="/src/assets/user.jpg"
+                    src="https://res.cloudinary.com/drp3ojnl0/image/upload/v1737392823/user_bbodxb.jpg"
                   />
                 </div>
               </div>
@@ -117,7 +117,7 @@ function App() {
                 <div className="w-10 rounded-full">
                   <img
                     alt="Tailwind CSS chat bubble component"
-                    src="/src/assets/logo.webp"
+                    src="https://res.cloudinary.com/drp3ojnl0/image/upload/v1737392823/logo_t5hvol.webp"
                   />
                 </div>
               </div>
